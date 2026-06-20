@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, i am creed 👋
+🌐 I'm from kenya staying in nairobi
+⚽ I'm a strong supporter of man united, ggmu.
+💻 currently seeking knowledge on AI using git & github
+🚀 future billionaire in making slow but sure, God's timing is the best
+🤖 working on an assignment project from chacha(lec)
+💡 knowledge is power, learn something new daily
+
 
 <!--
 **Creed28-Jr/Creed28-Jr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
