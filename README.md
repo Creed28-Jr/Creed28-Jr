@@ -1,10 +1,12 @@
-## Hi, i am creed 👋
-🌐 I'm from kenya staying in nairobi
-⚽ I'm a strong supporter of man united, ggmu.
-💻 currently seeking knowledge on AI using git & github
-🚀 future billionaire in making slow but sure, God's timing is the best
-🤖 working on an assignment project from chacha(lec)
-💡 knowledge is power, learn something new daily
+👋 Hey, I'm **Creed**.
+
+I'm A tech enthusiast from Kenya 🇰🇪 passionate about coding, artificial intelligence 🖥️, and solving real- world 🌏 problems through technology.I believe in continuous learning 📖, meaningful growth 🥇, and building things that make an impact.
+
+📚 Constantly learning, building and improving one project at a time. 💻 Turning ideas into projects and projects into experience ⌛. ⚽ Football enthusiast and a proud Manchester United supporter. 🚀 Dreaming bigger than yesterday and working toward bigger goals tomorrow. 🌱 focused on growth, discipline and becoming the best version of myself. 💰 Billionaire in progress.
+
+"Every expert was once a beginner who refused to quit."
+
+Thanks for stopping by,,, feel free ☮️ to explore my projects and join me on the journey 🗺️.
 
 
 <!--
